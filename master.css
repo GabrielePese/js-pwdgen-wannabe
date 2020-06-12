@@ -1,0 +1,18 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.contenitore{
+  border-radius: 5px;
+  background-color: orange;
+  height: 200px;
+  width: 200px;
+  padding: 5px;
+}
+
+h1{
+  color:blue;
+}
